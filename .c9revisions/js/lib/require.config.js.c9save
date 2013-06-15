@@ -1,0 +1,1 @@
+{"ts":1370040387670,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\nrequire.config({\n    paths: {\n        jquery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min'\n        ,qtip : 'lib/jquery.qtip.min'\n    }\n});\n"]],"start1":0,"start2":0,"length1":0,"length2":158}]],"length":158}
